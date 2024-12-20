@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "nombre": "Nintendo",
+        "fundacion": 1889,
+        "pais": "Japon"
+    },
+    {
+        "id": 2,
+        "nombre": "Sony Interactive Entertainment",
+        "fundacion": 1993,
+        "pais": "Jap\u00f3n"
+    },
+    {
+        "id": 3,
+        "nombre": "Microsoft",
+        "fundacion": 2001,
+        "pais": "Estados Unidos"
+    },
+    {
+        "id": 4,
+        "nombre": "Sega",
+        "fundacion": 1960,
+        "pais": "Japon"
+    },
+    {
+        "id": 5,
+        "nombre": "Electronic Arts",
+        "fundacion": 1982,
+        "pais": "Estados Unidos"
+    },
+    {
+        "id": 6,
+        "nombre": "Ubisoft",
+        "fundacion": 1986,
+        "pais": "Francia"
+    },
+    {
+        "id": 7,
+        "nombre": "Capcom",
+        "fundacion": 1979,
+        "pais": "Japon"
+    }
+]

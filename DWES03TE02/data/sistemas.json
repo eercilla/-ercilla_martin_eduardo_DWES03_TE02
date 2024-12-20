@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "nombre": "Nintendo Entertainment System",
+        "lanzamiento": 1983
+    },
+    {
+        "id": 2,
+        "nombre": "PlayStation",
+        "lanzamiento": 1994
+    },
+    {
+        "id": 3,
+        "nombre": "Xbox",
+        "lanzamiento": 2001
+    },
+    {
+        "id": 4,
+        "nombre": "Sega Genesis",
+        "lanzamiento": 1988
+    },
+    {
+        "id": 5,
+        "nombre": "Super Nintendo Entertainment System",
+        "lanzamiento": 1990
+    },
+    {
+        "id": 6,
+        "nombre": "PlayStation 2",
+        "lanzamiento": 2000
+    },
+    {
+        "id": 7,
+        "nombre": "Nintendo Switch",
+        "lanzamiento": 2017
+    }
+]

@@ -1,0 +1,51 @@
+[
+    {
+        "id": 1,
+        "titulo": "Super Mario World",
+        "compania": "Nintendo",
+        "sistema": "Super Nintendo",
+        "genero": "plataformas"
+    },
+    {
+        "id": 2,
+        "titulo": "The Legend of Zelda: Ocarina of Time",
+        "compania": "Nintendo",
+        "sistema": "Nintendo 64",
+        "genero": "aventura"
+    },
+    {
+        "id": 3,
+        "titulo": "Final Fantasy VII",
+        "compania": "Square Enix",
+        "sistema": "PlayStation",
+        "genero": "RPG"
+    },
+    {
+        "id": 4,
+        "titulo": "Sonic the Hedgehog",
+        "compania": "Sega",
+        "sistema": "Sega Genesis",
+        "genero": "plataformas"
+    },
+    {
+        "id": 5,
+        "titulo": "Metal Gear Solid",
+        "compania": "Konami",
+        "sistema": "PlayStation",
+        "genero": "accion"
+    },
+    {
+        "id": 6,
+        "titulo": "Street Fighter II",
+        "compania": "Capcom",
+        "sistema": "Super Nintendo",
+        "genero": "lucha"
+    },
+    {
+        "id": 7,
+        "titulo": "Resident Evil 2",
+        "compania": "Capcom",
+        "sistema": "PlayStation",
+        "genero": "survival horror"
+    }
+]
